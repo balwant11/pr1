@@ -21,13 +21,13 @@ function HeroSection() {
         </div>
 
         <div className="brand-icons">
-            <img src="/images/flipkart.png" alt="Flipkart Logo" />
-            <img src="/images/amazon.png" alt="Amazon Logo" />
+            <img src="./images/flipkart.png" alt="Flipkart Logo" />
+            <img src="./images/amazon.png" alt="Amazon Logo" />
         </div>
 
       </div>
       <div className="hero-image">
-        <img src="/images/shoe_image.png" alt="Shoes Logo" />
+        <img src="./images/shoe_image.png" alt="Shoes Logo" />
       </div>
     </main>
   );
